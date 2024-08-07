@@ -1,1 +1,1 @@
-# Differentiable-Search-Index-DSI-
+# Differentiable-Search-Index (DSI)
